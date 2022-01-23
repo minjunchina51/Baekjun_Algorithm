@@ -1,5 +1,3 @@
-# Baekjun_Algorithm
-<br>Baekjun_Algorithm Solutions</br>
 # Algorithms Need to be study
 String
 Array / Vector</br>
