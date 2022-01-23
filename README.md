@@ -1,7 +1,7 @@
 # Baekjun_Algorithm
 <br>Baekjun_Algorithm Solutions</br>
 # Algorithms Need to be study
-<br>String</br>
+String
 <br>Array / Vector</br>
 <brHash Map</br>
 <brSort</br>
