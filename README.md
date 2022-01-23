@@ -1,7 +1,7 @@
 # Baekjun_Algorithm
 Baekjun_Algorithm Solutions
 #Algorithms Need to be study
-String
+<br>String</br>
 Array / Vector
 Hash Map
 Sort
