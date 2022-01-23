@@ -2,11 +2,11 @@
 <br>Baekjun_Algorithm Solutions</br>
 # Algorithms Need to be study
 String
-<br>Array / Vector</br>
-<brHash Map</br>
-<brSort</br>
-<brTree</br>
-<brBFS / DFS</br>
-<brGraph</br>
-<brSearch / Binary Search</br>
-<brDynamic Programming</br>
+Array / Vector</br>
+Hash Map</br>
+Sort</br>
+Tree</br>
+BFS / DFS</br>
+Graph</br>
+Search / Binary Search</br>
+Dynamic Programming</br>
